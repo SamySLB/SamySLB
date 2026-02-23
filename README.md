@@ -1,16 +1,99 @@
-## Hi there 👋
+# Samara Lima (Samy)
 
-<!--
-**SamySLB/SamySLB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional de Tecnologia com foco em Dados, Front-end e Produto.  
+Atuo conectando visão técnica e análise de métricas para desenvolver soluções escaláveis orientadas a negócio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre
+
+- Desenvolvimento Full Stack com foco em organização e escalabilidade
+- Análise de dados aplicada à tomada de decisão
+- Interesse em estratégia de produto e comportamento do consumidor digital
+- Mentalidade orientada a métricas e entrega de valor
+
+---
+
+## Projetos Estratégicos
+
+### E-commerce Full Stack  
+Repositório:  
+https://github.com/SamySLB/JavaScript_projects
+
+Aplicação web de e-commerce desenvolvida com arquitetura full stack.
+
+Tecnologias:
+React, Node.js, MongoDB, JavaScript, TypeScript, Bootstrap
+
+Foco em:
+- Estrutura modular
+- Integração completa entre frontend e backend
+- Base preparada para análise de comportamento e métricas
+
+---
+
+### Análise de Vendas de E-commerce  
+Repositório:  
+https://github.com/SamySLB/Analise-de-vendas-de-e-commerce
+
+Projeto de engenharia e análise de dados aplicado a vendas digitais.
+
+Tecnologias:
+Python (Pandas, Matplotlib), SQL, MySQL, Power BI
+
+Entregas:
+- Tratamento e exploração de dados
+- Análise estratégica
+- Dashboard interativo para suporte à decisão
+
+---
+
+### Engenharia de Dados e Arquitetura  
+Repositório:  
+https://github.com/SamySLB/LH-Checkpoints
+
+Projeto de modernização de arquitetura de dados com:
+
+- Construção de pipelines escaláveis
+- Modelagem de dados
+- Implementação de modelos preditivos
+- Apoio estratégico às áreas de negócio
+
+---
+
+## Stack Técnica
+
+Desenvolvimento  
+JavaScript | TypeScript | React | Bootstrap | Node.js | MongoDB  
+
+Dados  
+Python | SQL | MySQL | Power BI  
+
+Cloud e Metodologias  
+AWS | Snowflake | Scrum  
+
+---
+
+## Certificações
+
+AWS  
+https://www.credly.com/badges/3717c203-bf4f-4843-8c1a-7099d4a566d5/linked_in_profile  
+
+Data / Cloud  
+https://www.credly.com/earner/earned/badge/aa53371b-506e-4d0e-bdb5-b7495fd21ccc  
+
+Snowflake  
+https://spnbadges.snowflake.com/5a328d7d-b81a-a6310783b866  
+
+Scrum Fundamentals Certified  
+https://www.scrumstudy.com/certification/verify?type=SFC&number=1063303  
+
+---
+
+## Contato
+
+LinkedIn  
+https://www.linkedin.com/in/samara-barcelos-de-lima-8a3444229/
+
+Email  
+samara.barcelos@live.com
