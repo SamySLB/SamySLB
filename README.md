@@ -76,17 +76,10 @@ AWS | Snowflake | Scrum
 
 ## Certificações
 
-AWS  
-https://www.credly.com/badges/3717c203-bf4f-4843-8c1a-7099d4a566d5/linked_in_profile  
-
-Data / Cloud  
-https://www.credly.com/earner/earned/badge/aa53371b-506e-4d0e-bdb5-b7495fd21ccc  
-
-Snowflake  
-https://spnbadges.snowflake.com/5a328d7d-b81a-a6310783b866  
-
-Scrum Fundamentals Certified  
-https://www.scrumstudy.com/certification/verify?type=SFC&number=1063303  
+[https://www.credly.com/badges/aa53371b-506e-4d0e-bdb5-b7495fd21ccc/linked_in_profile](https://www.credly.com/earner/earned/badge/aa53371b-506e-4d0e-bdb5-b7495fd21ccc)
+[aws- link de certificação](https://www.credly.com/badges/3717c203-bf4f-4843-8c1a-7099d4a566d5/linked_in_profile)
+snowflake- [link de certificação](https://spnbadges.snowflake.com/5a328d7d-b81a-4de4-a63a-a6310783b866#acc.HcZM3hpw)
+Scrum Fundamentals Certified - https://www.scrumstudy.com/certification/verify?type=SFC&number=1063303 
 
 ---
 
