@@ -78,7 +78,6 @@ AWS | Snowflake | Scrum
  <p align="left">
   <img src="generative-ai-overview-for-project-managers.png" width="120" />
   <img src="aws-certified-cloud-practitioner.png" width="120" />
-  <img src="snowflake-cert.png" width="120" />
 </p>
 
 ---
