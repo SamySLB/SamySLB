@@ -76,7 +76,7 @@ AWS | Snowflake | Scrum
 
 ## Certificações
  <p align="left">
-  <img src="pmi-generative-ai.png" width="120" />
+  <img src="generative-ai-overview-for-project-managers.png" width="120" />
   <img src="aws-cert.png" width="120" />
   <img src="snowflake-cert.png" width="120" />
 </p>
