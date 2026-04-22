@@ -1,6 +1,6 @@
 # Samara Lima (Samy)
 
-Profissional de Tecnologia com foco em Dados, Front-end e Produto.  
+Profissional de Tecnologia com foco em Dados e Produto.  
 Atuo conectando visão técnica e análise de métricas para desenvolver soluções escaláveis orientadas a negócio.
 
 ---
